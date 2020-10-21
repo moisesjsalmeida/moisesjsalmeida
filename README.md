@@ -9,5 +9,5 @@
 - Looking foward to collaborate on open-source projects
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesjsalmeida)
 
-![Moises Almeida GitHub Stats](https://github-readme-stats.vercel.app/api?username=moisesjsalmeida&show_icons=true)
